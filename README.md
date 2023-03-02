@@ -43,7 +43,8 @@ e.g. original images path → Dataset/left/{left_1,left_2 . png}
 python  resize_images.py --images_original <original images folder> --images_resized <folder to save resize images> --threshold <threshold value>
 
 
-### *run the model.py* script which reads the images from the resized folder and creates a Neural network model and starts training.
+### *run the model.py*
+- It reads the images from the resized folder and creates a Neural network model and starts training.
 
 ### *run prediction.py* 
 
