@@ -20,8 +20,8 @@
 ### Dataset properties 
 
 - Prepared using OpenCV, captures frames from the camera
-- 500 images of each class
-- Images converted to binary with a threshold of 40.
+- 500 images of each class (Dataset folder).
+- Images converted to binary with a threshold of 40 (resized folder).
 - Images resized to 56 x 100 dimension to be fed into CNN model.
 
 ### Code flow and execution steps
