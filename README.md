@@ -15,7 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/23450113/222438364-6c94f2d9-351b-4d29-a4f4-8278062e4f11.png)
 
-** Specific gestures were chosen because all of them are very different from each other and it will help the neural network model to easily differentiate one class from another ** 
+* Specific gestures were chosen because all of them are very different from each other and it will help the neural network model to easily differentiate one class from another *
 
 ### Dataset properties 
 
