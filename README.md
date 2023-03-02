@@ -26,11 +26,11 @@
 
 ### Code flow and execution steps
 
-- create_dataset.py --> script to create the dataset. It opens the camera, the user can place fingers or hands or the type of sample images user wants in their dataset. Run the script through the terminal and specify the **directory name** to save the captured images.
+#### *create_dataset.py* --> script to create the dataset. It opens the camera, the user can place fingers or hands or the type of sample images user wants in their dataset. Run the script through the terminal and specify the **directory name** to save the captured images.
 
 e.g. python create_dataset.py --folder_name <folder_name>
 
-- resize_images.py --> for  pre-processing images
+#### *resize_images.py* --> for  pre-processing images
 
 Run the script through the terminal and 
 - specify original images folder,
@@ -43,10 +43,10 @@ e.g. original images path → Dataset/left/{left_1,left_2 . png}
 python  resize_images.py --images_original <original images folder> --images_resized <folder to save resize images> --threshold <threshold value>
 
 
-### *run the model.py*
+#### *run the model.py*
 - It reads the images from the resized folder and creates a Neural network model and starts training.
 
-### *run prediction.py* 
+#### *run prediction.py* 
 
 - It will open a window with the front camera. bring the hand in the green box in the opened window.
 - Do the gesture as listed in the first answer to control the car. 
