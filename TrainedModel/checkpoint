@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/smaph/PycharmProjects/simpleproject/TrainedModel/GestureRecogModel.tfl"
+all_model_checkpoint_paths: "/home/smaph/PycharmProjects/simpleproject/TrainedModel/GestureRecogModel.tfl"
