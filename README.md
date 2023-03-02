@@ -3,13 +3,16 @@
 
 ## Below are the three gestures chosen for controlling the car.
 
-push left (class 0)
+- push left (class 0)
+
 ![image](https://user-images.githubusercontent.com/23450113/222438191-e409b709-ecb2-4691-8c1c-c66b2727f3c2.png)
 
-push right (class 2)
+- push right (class 2)
+
 ![image](https://user-images.githubusercontent.com/23450113/222438309-d5faf6b2-7754-4da8-9881-0a96c8e7f6ff.png)
 
-no action (class 1)
+- no action (class 1)
+
 ![image](https://user-images.githubusercontent.com/23450113/222438364-6c94f2d9-351b-4d29-a4f4-8278062e4f11.png)
 
 ** Specific gestures were chosen because all of them are very different from each other and it will help the neural network model to easily differentiate one class from another ** 
