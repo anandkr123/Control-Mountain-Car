@@ -1,4 +1,4 @@
-# Control the Mountain-Car-v0 Gym env using your webcam
+# Control the Mountain-Car-v0 Gym env using webcam
 
 
 ## Below are the three gestures chosen for controlling the car.
