@@ -61,7 +61,7 @@ python resize_images.py --images_original original_images_folder --images_resize
 - The image is fed into neural network for predictions.
 - Based on predictions, the corresponding action is done on MountainCar.
 - Following, there is a pause of 1 second done by the script so the user can easily switch actions and the green box doesn’t misinterpret the prediction from the last action.
-- For every action, the mountain car moves 5 times for that actions, so as to provide a better visualization to the user of the movement of the car.
+- For **every action, the mountain car moves 5 times for that actions**, so as to provide a better visualization to the user of the movement of the car.
 
 
 ### Realtime actions on the mountain car
